@@ -32,6 +32,8 @@
 
 卡片github项目：https://github.com/anuraghazra/github-readme-stats
 技能图标网址：https://shields.io/
+  图标使用示例：-Vue-3b2e5a?style=plastic&logo=Vue.js
+    名称：Vue 颜色：3b2e5a 图标：图标：Vue.js（图标网站：https://simpleicons.org/  如果名称有空格，用 - 连接）
 参考项目：https://github.com/moshfiqrony/moshfiqrony
 -->
 
