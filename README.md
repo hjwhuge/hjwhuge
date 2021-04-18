@@ -9,6 +9,16 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hjwhuge&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hjwhuge&layout=compact" />
+</a>
+</div>
+
+<br/>
 ![](https://github-readme-stats.vercel.app/api?username=hjwhuge&count_private=true&show_icons=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hjwhuge&layout=compact)
 
