@@ -8,8 +8,10 @@
 
 ## Languages and Tools:
 ![](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
-![](https://img.shields.io/badge/-Vue-3b2e5a?style=plastic&logo=Vue.js)
+![](https://img.shields.io/badge/-Vue-4fc08d?style=plastic&logo=Vue.js)
 ![](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
+![](https://img.shields.io/badge/-HTML5-e34f26?style=plastic&logo=HTML5)
+![](https://img.shields.io/badge/-CSS3-1572b6?style=plastic&logo=CSS3)
 ![](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
 
 <div>
