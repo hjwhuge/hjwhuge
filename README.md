@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Typescript
+- 🔭 I’m currently working on szgx
+- 🌱 I’m currently learning Data Structures and Algorithms
 - 📫 How to reach me: hujiawei_h@163.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
