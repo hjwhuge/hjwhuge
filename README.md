@@ -7,13 +7,11 @@
 - ⚡ Fun fact: ...
 
 ## Languages and Tools:
-![](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
-![](https://img.shields.io/badge/-Vue-4fc08d?style=plastic&logo=Vue.js)
-![](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
-![](https://img.shields.io/badge/-HTML5-e34f26?style=plastic&logo=HTML5)
-![](https://img.shields.io/badge/-CSS3-1572b6?style=plastic&logo=CSS3)
-![](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
-
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hjwhuge&count_private=true&show_icons=true" />
