@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on szgx
+- 🔭 I’m currently working on 360
 - 🌱 I’m currently learning Data Structures and Algorithms
 - 📫 How to reach me: hujiawei_h@163.com
 - 😄 Pronouns: ...
